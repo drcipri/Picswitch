@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: 1889d4f872061b9448800cc446ea9030
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8951162565906350635
+    second: Image22 1_0
+  - first:
+      213: -3950750798558746844
+    second: Image22 1_1
+  - first:
+      213: 5104069226364735168
+    second: Image22 1_2
+  - first:
+      213: -3794749431392218956
+    second: Image22 1_3
+  - first:
+      213: 6036992699548149470
+    second: Image22 1_4
+  - first:
+      213: 1238429524261325807
+    second: Image22 1_5
+  - first:
+      213: -4164328901825438423
+    second: Image22 1_6
+  - first:
+      213: 4301600515386528929
+    second: Image22 1_7
+  - first:
+      213: -6777322851222399717
+    second: Image22 1_8
+  - first:
+      213: 8705499089020577377
+    second: Image22 1_9
+  - first:
+      213: -1183312920016696423
+    second: Image22 1_10
+  - first:
+      213: 2315132182356780309
+    second: Image22 1_11
+  - first:
+      213: 4736535620715608265
+    second: Image22 1_12
+  - first:
+      213: -7311809536853325930
+    second: Image22 1_13
+  - first:
+      213: 8216893810535157600
+    second: Image22 1_14
+  - first:
+      213: -1115042425909579738
+    second: Image22 1_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Image22 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 959.25
+        width: 320
+        height: 319.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b224f9badeae83c70800000000000000
+      internalID: 8951162565906350635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image22 1_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 959.25
+        width: 320
+        height: 319.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427a0d7a41d1c29c0800000000000000
+      internalID: -3950750798558746844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image22 1_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 959.25
+        width: 320
+        height: 319.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce097a3beb45d640800000000000000
+      internalID: 5104069226364735168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image22 1_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 959.25
+        width: 320
+        height: 319.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b050426f77565bc0800000000000000
+      internalID: -3794749431392218956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image22 1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640.25
+        width: 320
+        height: 319.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6a138ffd4b7c350800000000000000
+      internalID: 6036992699548149470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image22 1_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640.25
+        width: 320
+        height: 319.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febc3f04719cf2110800000000000000
+      internalID: 1238429524261325807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image22 1_6
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640.25
+        width: 320
+        height: 319.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d5dc66de45536c0800000000000000
+      internalID: -4164328901825438423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image22 1_7
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 640.25
+        width: 320
+        height: 319.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4504db0ea52bb30800000000000000
+      internalID: 4301600515386528929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image22 1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321.25
+        width: 320
+        height: 319.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1550cc46cc12f1a0800000000000000
+      internalID: -6777322851222399717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image22 1_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 321.25
+        width: 320
+        height: 319.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166ee893c4520d870800000000000000
+      internalID: 8705499089020577377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image22 1_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 321.25
+        width: 320
+        height: 319.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b46403b27049fe0800000000000000
+      internalID: -1183312920016696423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image22 1_11
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 321.25
+        width: 320
+        height: 319.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51563792470012020800000000000000
+      internalID: 2315132182356780309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image22 1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.25
+        width: 320
+        height: 319.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8fcb24d0e8bb140800000000000000
+      internalID: 4736535620715608265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image22 1_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2.25
+        width: 320
+        height: 319.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6974b8247fb378a90800000000000000
+      internalID: -7311809536853325930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image22 1_14
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2.25
+        width: 320
+        height: 319.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fcd0eb265480270800000000000000
+      internalID: 8216893810535157600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image22 1_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2.25
+        width: 320
+        height: 319.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6207b2642d29680f0800000000000000
+      internalID: -1115042425909579738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Image22 1_6: -4164328901825438423
+      Image22 1_12: 4736535620715608265
+      Image22 1_4: 6036992699548149470
+      Image22 1_8: -6777322851222399717
+      Image22 1_5: 1238429524261325807
+      Image22 1_15: -1115042425909579738
+      Image22 1_3: -3794749431392218956
+      Image22 1_0: 8951162565906350635
+      Image22 1_9: 8705499089020577377
+      Image22 1_14: 8216893810535157600
+      Image22 1_7: 4301600515386528929
+      Image22 1_1: -3950750798558746844
+      Image22 1_10: -1183312920016696423
+      Image22 1_11: 2315132182356780309
+      Image22 1_13: -7311809536853325930
+      Image22 1_2: 5104069226364735168
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

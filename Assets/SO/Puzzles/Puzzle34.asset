@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 974e91e363c5f76428158fbc15df08dc, type: 3}
+  m_Name: Puzzle34
+  m_EditorClassIdentifier: 
+  puzzleSprites:
+  - {fileID: 7301213343781432367, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: -5360884901846768853, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: -9136912398317078920, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: 7947179287406394284, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: 6127820357566190027, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: -4784492397022381272, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: -4721472653835334558, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: -6274455113211238875, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: -2646584703596876604, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: -7497141448270426734, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: -1952922965798488742, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: -876380628698663940, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: 500890639961235900, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: -8150049632247891399, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: 4974261908346038020, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: 988637476442679673, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: 3522786808679667135, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: 8864083020763944019, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: -886342665627587927, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: 2808017312559327472, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: 6045919578643592581, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: 1031851169783201750, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: 849440854328694313, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: -2108243183139917417, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: 3509157192379929658, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: -2308135684329365881, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: 316253617151149357, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: -5303658341709773655, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: 3102144038303004845, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: -1614102123884569715, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: -2339755767454516645, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: 6987622551242452132, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: 7297437123833143772, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: -4795492425104251992, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: 3561361667755515023, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: 8619542685152178220, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: -8957593903630308772, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: -9030166827354746198, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: 5282561872391781840, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: 5642242977208856451, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: -6814954263323801332, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: 508006527610565004, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: -4601981045048196707, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: -6716683125974256460, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: -3476758584656937551, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: -2402108219926584697, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: -530030611271891580, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: -2407765197316495710, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  - {fileID: 913962814355746352, guid: ea3b6febd9adfc84bb7b28a5cc1a0842, type: 3}
+  originalPicture: {fileID: 21300000, guid: 8e0b64d7a7b272a4ca51ef38cdc6746f, type: 3}
+  matriceType: 7
+  puzzleRank: 49
+  timer: 550
+  moves: 330
+  spritesReordered: 1
+  solved: 0

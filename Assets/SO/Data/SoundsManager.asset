@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70ae5ae4abb7e0b44b4b606ddd17af2f, type: 3}
+  m_Name: SoundsManager
+  m_EditorClassIdentifier: 
+  voiceVolume: 0.59346646
+  effectsVolume: 0.15110736
+  tenMovesLeft: {fileID: 8300000, guid: ed055080d5d16d7488e9dcc86d867a67, type: 3}
+  twentySecondsLeft: {fileID: 8300000, guid: bcc0d875b47940549ba497c1b0adefa3, type: 3}
+  takeThatOffer: {fileID: 8300000, guid: 889aea3908c4e1246aaab5306e421e8c, type: 3}
+  tryHarder: {fileID: 8300000, guid: 85a63d24f99ea014481a3b7d9dd76d61, type: 3}
+  puzzleStart: {fileID: 8300000, guid: a225dd32012cc334c8ee241e567ff3b5, type: 3}
+  youCanMakeit: {fileID: 8300000, guid: cb69e79a9d92bc245acdac2c1e4759cf, type: 3}
+  outOfMoves: {fileID: 8300000, guid: 4c1dc6fcb76f8a04d95a34581dd7e197, type: 3}
+  timeEnded: {fileID: 8300000, guid: c999993d7957c484bab74bd65d01b98b, type: 3}
+  squareMove: {fileID: 8300000, guid: 2536b7c508303ef49b27bce984b145b3, type: 3}
+  ledZap: {fileID: 8300000, guid: 5be74707c3653b045819418fe663ba00, type: 3}
+  fireworks: {fileID: 8300000, guid: d7966ea28bad5e14c9f48cc606bb88b2, type: 3}
+  youHaveMyRespect: {fileID: 8300000, guid: 9a7354191e2e63744981ba160605439a, type: 3}
+  areYouFriendWithElon: {fileID: 8300000, guid: 17b346da32c1db046baa8fe976f27b9a, type: 3}
+  didYouCreateBitcoin: {fileID: 8300000, guid: b7cd13fd83ce2de45b38ada8f5321d91, type: 3}
+  ironMan: {fileID: 8300000, guid: 7f1b25dcd5e13bd45bd2afd8e9d5555e, type: 3}

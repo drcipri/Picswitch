@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: c0a7c3f39c2209e4c8d4e57764f57d59
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5254754463326153926
+    second: Image31 1_0
+  - first:
+      213: -6940270496395161847
+    second: Image31 1_1
+  - first:
+      213: -8083058985298359053
+    second: Image31 1_2
+  - first:
+      213: -7934608627616225245
+    second: Image31 1_3
+  - first:
+      213: 2582413049813544985
+    second: Image31 1_4
+  - first:
+      213: 3476257036385222530
+    second: Image31 1_5
+  - first:
+      213: -2775552633498017910
+    second: Image31 1_6
+  - first:
+      213: -7975331243294792466
+    second: Image31 1_7
+  - first:
+      213: 331418834965061786
+    second: Image31 1_8
+  - first:
+      213: 6738116528431927475
+    second: Image31 1_9
+  - first:
+      213: 296707718199679859
+    second: Image31 1_10
+  - first:
+      213: -1911714911140519348
+    second: Image31 1_11
+  - first:
+      213: 2590591513425224839
+    second: Image31 1_12
+  - first:
+      213: 3876513174423799507
+    second: Image31 1_13
+  - first:
+      213: 1593481489001741430
+    second: Image31 1_14
+  - first:
+      213: 500124020377826837
+    second: Image31 1_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 319
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Image31 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 319.5
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc2470f753ace840800000000000000
+      internalID: 5254754463326153926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image31 1_1
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 960
+        width: 319.5
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f0e3131c43faf90800000000000000
+      internalID: -6940270496395161847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image31 1_2
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 960
+        width: 319.5
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc03c2cda433df80800000000000000
+      internalID: -8083058985298359053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image31 1_3
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 960
+        width: 319.5
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3286f271e7b92e190800000000000000
+      internalID: -7934608627616225245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image31 1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 319.5
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91038719cf296d320800000000000000
+      internalID: 2582413049813544985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image31 1_5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 640
+        width: 319.5
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f71b94b552e3030800000000000000
+      internalID: 3476257036385222530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image31 1_6
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 640
+        width: 319.5
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f53f8d5914b79d0800000000000000
+      internalID: -2775552633498017910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image31 1_7
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 640
+        width: 319.5
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4e6554d7ee15190800000000000000
+      internalID: -7975331243294792466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image31 1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 319.5
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9067f9acaf699400800000000000000
+      internalID: 331418834965061786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image31 1_9
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 320
+        width: 319.5
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b09f545849928d50800000000000000
+      internalID: 6738116528431927475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image31 1_10
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 320
+        width: 319.5
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b9861091e1e1400800000000000000
+      internalID: 296707718199679859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image31 1_11
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 320
+        width: 319.5
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42e6a1ca693875e0800000000000000
+      internalID: -1911714911140519348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image31 1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 319.5
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7842ad38141a3f320800000000000000
+      internalID: 2590591513425224839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image31 1_13
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 319.5
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d607a881342cc530800000000000000
+      internalID: 3876513174423799507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image31 1_14
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 0
+        width: 319.5
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cfb1cb8fe2d1610800000000000000
+      internalID: 1593481489001741430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image31 1_15
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 0
+        width: 319.5
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516b242952cc0f600800000000000000
+      internalID: 500124020377826837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Image31 1_3: -7934608627616225245
+      Image31 1_9: 6738116528431927475
+      Image31 1_15: 500124020377826837
+      Image31 1_2: -8083058985298359053
+      Image31 1_5: 3476257036385222530
+      Image31 1_11: -1911714911140519348
+      Image31 1_6: -2775552633498017910
+      Image31 1_4: 2582413049813544985
+      Image31 1_14: 1593481489001741430
+      Image31 1_1: -6940270496395161847
+      Image31 1_8: 331418834965061786
+      Image31 1_13: 3876513174423799507
+      Image31 1_0: 5254754463326153926
+      Image31 1_10: 296707718199679859
+      Image31 1_7: -7975331243294792466
+      Image31 1_12: 2590591513425224839
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

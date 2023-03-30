@@ -1,0 +1,998 @@
+fileFormatVersion: 2
+guid: a5eb5f37b319e4744928ceefcc15579e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3383109223560578396
+    second: Image26 1_0
+  - first:
+      213: 6408448202467975285
+    second: Image26 1_1
+  - first:
+      213: 2265278549946943630
+    second: Image26 1_2
+  - first:
+      213: -9110393615917134436
+    second: Image26 1_3
+  - first:
+      213: -6364056394508724939
+    second: Image26 1_4
+  - first:
+      213: -4261968484369921517
+    second: Image26 1_5
+  - first:
+      213: 5764547955010608891
+    second: Image26 1_6
+  - first:
+      213: -2460441611702627398
+    second: Image26 1_7
+  - first:
+      213: 5463049163178041574
+    second: Image26 1_8
+  - first:
+      213: 6206069355389850213
+    second: Image26 1_9
+  - first:
+      213: 6432351598676165603
+    second: Image26 1_10
+  - first:
+      213: 959534689251963950
+    second: Image26 1_11
+  - first:
+      213: 318074281297159378
+    second: Image26 1_12
+  - first:
+      213: 1390880895456308741
+    second: Image26 1_13
+  - first:
+      213: -3256458776446806890
+    second: Image26 1_14
+  - first:
+      213: -6979634708671458344
+    second: Image26 1_15
+  - first:
+      213: 3614970458603096918
+    second: Image26 1_16
+  - first:
+      213: -6306327630417519367
+    second: Image26 1_17
+  - first:
+      213: 7982345120305223843
+    second: Image26 1_18
+  - first:
+      213: -3888694378597029193
+    second: Image26 1_19
+  - first:
+      213: -4108127958395797751
+    second: Image26 1_20
+  - first:
+      213: -9016983642126366951
+    second: Image26 1_21
+  - first:
+      213: 3302476104442156542
+    second: Image26 1_22
+  - first:
+      213: 2719982334634139046
+    second: Image26 1_23
+  - first:
+      213: -5609749552220010036
+    second: Image26 1_24
+  - first:
+      213: 7987714128286703257
+    second: Image26 1_25
+  - first:
+      213: 5499606571721530963
+    second: Image26 1_26
+  - first:
+      213: -4291992317235925364
+    second: Image26 1_27
+  - first:
+      213: 1080992262919245822
+    second: Image26 1_28
+  - first:
+      213: 1398567623050264928
+    second: Image26 1_29
+  - first:
+      213: 647960128984385912
+    second: Image26 1_30
+  - first:
+      213: -7024089654515077428
+    second: Image26 1_31
+  - first:
+      213: -5308330376011927169
+    second: Image26 1_32
+  - first:
+      213: 153723073743604326
+    second: Image26 1_33
+  - first:
+      213: -6277912872536244199
+    second: Image26 1_34
+  - first:
+      213: 2939981297921378966
+    second: Image26 1_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 213
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Image26 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1066.6666
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c550da21ae733fe20800000000000000
+      internalID: 3383109223560578396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1066.6666
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570289dcfa16fe850800000000000000
+      internalID: 6408448202467975285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1066.6666
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8846e6d6d2ef6f10800000000000000
+      internalID: 2265278549946943630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_3
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1066.6666
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dc5477641619180800000000000000
+      internalID: -9110393615917134436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_4
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1066.6666
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53511ca6d645ea7a0800000000000000
+      internalID: -6364056394508724939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_5
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1066.6666
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a883d8e327ad4c0800000000000000
+      internalID: -4261968484369921517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 853.6667
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe9c1db2d9cfff40800000000000000
+      internalID: 5764547955010608891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_7
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 853.6667
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab310efd361caddd0800000000000000
+      internalID: -2460441611702627398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_8
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 853.6667
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0e8b9f446a0db40800000000000000
+      internalID: 5463049163178041574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_9
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 853.6667
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56213739233602650800000000000000
+      internalID: 6206069355389850213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_10
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 853.6667
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3428de2bd444950800000000000000
+      internalID: 6432351598676165603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_11
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 853.6667
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24378e47b3f05d00800000000000000
+      internalID: 959534689251963950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640.6667
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4a7e4afd60a6400800000000000000
+      internalID: 318074281297159378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 640.6667
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50eec822ec66d4310800000000000000
+      internalID: 1390880895456308741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_14
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 640.6667
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6945f2c0ffbbec2d0800000000000000
+      internalID: -3256458776446806890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_15
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 640.6667
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d396af463b532f90800000000000000
+      internalID: -6979634708671458344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_16
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 640.6667
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b819aaa74fa2230800000000000000
+      internalID: 3614970458603096918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_17
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 640.6667
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc9bb7be6c6b78a0800000000000000
+      internalID: -6306327630417519367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 427.6667
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a89d5a389cf6ce60800000000000000
+      internalID: 7982345120305223843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_19
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 427.6667
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba6aabd015980ac0800000000000000
+      internalID: -3888694378597029193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_20
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 427.6667
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fb7fb336ffcf6c0800000000000000
+      internalID: -4108127958395797751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_21
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 427.6667
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917cc89c62d3dd280800000000000000
+      internalID: -9016983642126366951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_22
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 427.6667
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef59d7c0580c4dd20800000000000000
+      internalID: 3302476104442156542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_23
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 427.6667
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad9433b5815fb520800000000000000
+      internalID: 2719982334634139046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 214.66667
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc90505018a2622b0800000000000000
+      internalID: -5609749552220010036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_25
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 214.66667
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ed5efcdaf0ade60800000000000000
+      internalID: 7987714128286703257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_26
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 214.66667
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e9ddfe907825c40800000000000000
+      internalID: 5499606571721530963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_27
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 214.66667
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e62783ab7cf64c0800000000000000
+      internalID: -4291992317235925364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_28
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 214.66667
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff4f3c5cb4700f00800000000000000
+      internalID: 1080992262919245822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_29
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 214.66667
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061064ed7d5b86310800000000000000
+      internalID: 1398567623050264928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.6666718
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8790bb4ed440ef800800000000000000
+      internalID: 647960128984385912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_31
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1.6666718
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccee128acab658e90800000000000000
+      internalID: -7024089654515077428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_32
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1.6666718
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71b463d5a50556b0800000000000000
+      internalID: -5308330376011927169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_33
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1.6666718
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ac4443252222200800000000000000
+      internalID: 153723073743604326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_34
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1.6666718
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91000a5118f50e8a0800000000000000
+      internalID: -6277912872536244199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image26 1_35
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1.6666718
+        width: 213.33333
+        height: 213.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a45ece969ecc820800000000000000
+      internalID: 2939981297921378966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Image26 1_10: 6432351598676165603
+      Image26 1_31: -7024089654515077428
+      Image26 1_32: -5308330376011927169
+      Image26 1_8: 5463049163178041574
+      Image26 1_17: -6306327630417519367
+      Image26 1_26: 5499606571721530963
+      Image26 1_19: -3888694378597029193
+      Image26 1_24: -5609749552220010036
+      Image26 1_27: -4291992317235925364
+      Image26 1_9: 6206069355389850213
+      Image26 1_4: -6364056394508724939
+      Image26 1_21: -9016983642126366951
+      Image26 1_15: -6979634708671458344
+      Image26 1_22: 3302476104442156542
+      Image26 1_23: 2719982334634139046
+      Image26 1_34: -6277912872536244199
+      Image26 1_0: 3383109223560578396
+      Image26 1_12: 318074281297159378
+      Image26 1_29: 1398567623050264928
+      Image26 1_16: 3614970458603096918
+      Image26 1_3: -9110393615917134436
+      Image26 1_28: 1080992262919245822
+      Image26 1_18: 7982345120305223843
+      Image26 1_13: 1390880895456308741
+      Image26 1_25: 7987714128286703257
+      Image26 1_20: -4108127958395797751
+      Image26 1_33: 153723073743604326
+      Image26 1_7: -2460441611702627398
+      Image26 1_30: 647960128984385912
+      Image26 1_35: 2939981297921378966
+      Image26 1_6: 5764547955010608891
+      Image26 1_14: -3256458776446806890
+      Image26 1_2: 2265278549946943630
+      Image26 1_5: -4261968484369921517
+      Image26 1_11: 959534689251963950
+      Image26 1_1: 6408448202467975285
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

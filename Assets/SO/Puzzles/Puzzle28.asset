@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 974e91e363c5f76428158fbc15df08dc, type: 3}
+  m_Name: Puzzle28
+  m_EditorClassIdentifier: 
+  puzzleSprites:
+  - {fileID: -2182616470140004410, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: 4367975976819543603, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: 747633604186441607, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: -4879863904082501743, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: 5695975148501541012, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: -2598889349393689098, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: -8544764468349761106, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: -3185735341288434717, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: -5742597260123684241, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: -8311023492228796875, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: -6116719503062294875, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: 8646942561799404306, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: -6134589395908752128, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: -2174959622778123324, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: -6700592324224695325, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: -4073127967263409600, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: 9162129118226328928, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: 7906253596359057322, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: 805382097874252229, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: 3572805282354058437, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: -3047927935943515905, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: 7329712330074749385, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: -877850434625528631, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: -5617411919430586105, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: 5583774371665047070, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: 4843355944466762230, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: 8586597982389687095, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: 7259071804424894323, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: 5789220163268911078, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: 8495305621983650131, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: -6174261287657934536, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: 6899443110335068967, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: -8128179790740400672, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: 8225837989570552713, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: 3612685914294732427, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  - {fileID: 7619994151977172375, guid: d37d9c1a1d84fa94b844930622a5e168, type: 3}
+  originalPicture: {fileID: 21300000, guid: a9000f4fee9ea5747ae16f19765ddb35, type: 3}
+  matriceType: 6
+  puzzleRank: 49
+  timer: 360
+  moves: 230
+  spritesReordered: 1
+  solved: 0

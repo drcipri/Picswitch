@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3507363341664934163
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3507363341664934164}
+  - component: {fileID: 5417270468256265655}
+  m_Layer: 0
+  m_Name: MatriceManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3507363341664934164
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3507363341664934163}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5417270468256265655
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3507363341664934163}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e2b4a891f6229f4281d6e5c854e64cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spaceBetweenSquares: 0.03
+  sounds: 1
+  square: {fileID: 6525549137379348399, guid: 91d92121bc5e8c34b90fbcdd1007ac53, type: 3}
+  matriceManager: {fileID: 3507363341664934163}
+  virtualCamera: {fileID: 0}
+  locationManager: {fileID: 0}
+  puzzleProgress: {fileID: 0}
+  soundManager: {fileID: 11400000, guid: 8bbade4dc10919f499f0363bf9af55d7, type: 2}

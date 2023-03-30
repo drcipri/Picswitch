@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: 8483d429081257f45a3613086fc29842
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6071418155323633033
+    second: Image19 1_0
+  - first:
+      213: 449969919764676179
+    second: Image19 1_1
+  - first:
+      213: 6790618214992931803
+    second: Image19 1_2
+  - first:
+      213: 4967979306868109302
+    second: Image19 1_3
+  - first:
+      213: 6209761271507204305
+    second: Image19 1_4
+  - first:
+      213: 7700312203449974013
+    second: Image19 1_5
+  - first:
+      213: -7906151576100667356
+    second: Image19 1_6
+  - first:
+      213: -8816465729247342996
+    second: Image19 1_7
+  - first:
+      213: 5232612753874799371
+    second: Image19 1_8
+  - first:
+      213: -6384439113629160166
+    second: Image19 1_9
+  - first:
+      213: -3611390681690673634
+    second: Image19 1_10
+  - first:
+      213: 6470668470546542591
+    second: Image19 1_11
+  - first:
+      213: -6877506076415910869
+    second: Image19 1_12
+  - first:
+      213: 3770080844986668683
+    second: Image19 1_13
+  - first:
+      213: -3645559328838100951
+    second: Image19 1_14
+  - first:
+      213: 4154673243536836437
+    second: Image19 1_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Image19 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 959.25
+        width: 320
+        height: 319.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d2ceef4a2024450800000000000000
+      internalID: 6071418155323633033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image19 1_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 959.25
+        width: 320
+        height: 319.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e3f2b024d9e3600800000000000000
+      internalID: 449969919764676179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image19 1_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 959.25
+        width: 320
+        height: 319.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb63fdc94f1d3e50800000000000000
+      internalID: 6790618214992931803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image19 1_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 959.25
+        width: 320
+        height: 319.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff6d5dabdec1f440800000000000000
+      internalID: 4967979306868109302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image19 1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640.25
+        width: 320
+        height: 319.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d83a28c9f08d2650800000000000000
+      internalID: 6209761271507204305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image19 1_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640.25
+        width: 320
+        height: 319.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcbd3aa6210dda60800000000000000
+      internalID: 7700312203449974013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image19 1_6
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640.25
+        width: 320
+        height: 319.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4200026b705b74290800000000000000
+      internalID: -7906151576100667356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image19 1_7
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 640.25
+        width: 320
+        height: 319.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e8ec1812f95a580800000000000000
+      internalID: -8816465729247342996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image19 1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321.25
+        width: 320
+        height: 319.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bc2e97399fd9840800000000000000
+      internalID: 5232612753874799371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image19 1_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 321.25
+        width: 320
+        height: 319.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d260ec37ae567a0800000000000000
+      internalID: -6384439113629160166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image19 1_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 321.25
+        width: 320
+        height: 319.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1eeba81f43c1edc0800000000000000
+      internalID: -3611390681690673634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image19 1_11
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 321.25
+        width: 320
+        height: 319.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff2f3ed0be6cc950800000000000000
+      internalID: 6470668470546542591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image19 1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.25
+        width: 320
+        height: 319.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c93ae79a03e80a0800000000000000
+      internalID: -6877506076415910869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image19 1_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2.25
+        width: 320
+        height: 319.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b865fe3cd84025430800000000000000
+      internalID: 3770080844986668683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image19 1_14
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2.25
+        width: 320
+        height: 319.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9285efcfa1f586dc0800000000000000
+      internalID: -3645559328838100951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image19 1_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2.25
+        width: 320
+        height: 319.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55745d67d4d58a930800000000000000
+      internalID: 4154673243536836437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Image19 1_5: 7700312203449974013
+      Image19 1_12: -6877506076415910869
+      Image19 1_7: -8816465729247342996
+      Image19 1_15: 4154673243536836437
+      Image19 1_8: 5232612753874799371
+      Image19 1_11: 6470668470546542591
+      Image19 1_0: 6071418155323633033
+      Image19 1_13: 3770080844986668683
+      Image19 1_6: -7906151576100667356
+      Image19 1_14: -3645559328838100951
+      Image19 1_2: 6790618214992931803
+      Image19 1_3: 4967979306868109302
+      Image19 1_1: 449969919764676179
+      Image19 1_9: -6384439113629160166
+      Image19 1_4: 6209761271507204305
+      Image19 1_10: -3611390681690673634
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

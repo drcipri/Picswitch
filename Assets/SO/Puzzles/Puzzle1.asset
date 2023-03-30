@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 974e91e363c5f76428158fbc15df08dc, type: 3}
+  m_Name: Puzzle1
+  m_EditorClassIdentifier: 
+  puzzleSprites:
+  - {fileID: 7317141057163852115, guid: 60cdd859c98b72e4d8deb110c3fa479a, type: 3}
+  - {fileID: -3276107022410428862, guid: 60cdd859c98b72e4d8deb110c3fa479a, type: 3}
+  - {fileID: 2094596242579534924, guid: 60cdd859c98b72e4d8deb110c3fa479a, type: 3}
+  - {fileID: -803936148477838738, guid: 60cdd859c98b72e4d8deb110c3fa479a, type: 3}
+  - {fileID: -8215954340238370389, guid: 60cdd859c98b72e4d8deb110c3fa479a, type: 3}
+  - {fileID: -5980809231565648252, guid: 60cdd859c98b72e4d8deb110c3fa479a, type: 3}
+  - {fileID: 5437468106408382835, guid: 60cdd859c98b72e4d8deb110c3fa479a, type: 3}
+  - {fileID: 3269712318325346586, guid: 60cdd859c98b72e4d8deb110c3fa479a, type: 3}
+  - {fileID: 1820169848466860505, guid: 60cdd859c98b72e4d8deb110c3fa479a, type: 3}
+  originalPicture: {fileID: 21300000, guid: 25fa2e4520568484dbdb7585ddbaad4a, type: 3}
+  matriceType: 3
+  puzzleRank: 9
+  timer: 100
+  moves: 30
+  spritesReordered: 1
+  solved: 0
