@@ -77,7 +77,7 @@ check each time the slide is moved to see if the position of the square/slide it
 the puzzle piece/slide.
 
 #### How slides swap places? 
-- Each slide has attached a script called **SquareBehaviour.cs**, this contains, 3 methods resposible for this, **LockSquare()**, **TargetSquare()** and**MoveSquare**.
+- Each slide has attached a script called **SquareBehaviour.cs**, this contains, 3 methods responsible for this, **LockSquare()**, **TargetSquare()** and**MoveSquare**.
 *LockSquare()*method will lock the slide that you pressed on, this means you can't lock another slide with another finger. Then **TargetSquare()** method uses a
 **RaycastHit2d** object to use a raycast from the location of the square to your finger touch, when the raycast hit another slide , the *MoveSquare()* method enter
 in action and swap the places of the slides.
@@ -92,7 +92,7 @@ slides that are in place, then multiply the result by 100 to get the progress.
 
 
 #### How i sliced the image?
--To slice the image i used the ***SpriteEditor*** wich is a tool provided by Unity.Before slicing you also need to adjust a few settings, like *pixels per unit* and
+-To slice the image i used the ***SpriteEditor*** wich is a tool provided by Unity.Before slicing i had to adjust a few settings, like *pixels per unit* and
 *Sprite Mode*.
 
 #### How i added the image to the matrice?
@@ -113,6 +113,6 @@ exactly the square.
   > you can find the script in : ```CustomTools->SliceOrder->Editor->SliceOrder.cs --and-- SliceOrderWindow.cs```
  
   - Second tool is called ***TexturePrepare*** . As i said before i had to adjust each image , and calculate the pixels per unit , and add a few settings, so i made
-  this tool that automatically did that for me. I only had to drag the picture into the field. IF you have the project in the top bar on `Tools` , you will find this
-  tool cald TexturePrepare.
-  > you can find the script in: ```CustomTools->Slicer->Editor->TexturePrepare.cs```
+  this tool that automatically did that for me. I only had to drag the picture into the field. If you have the project in the top bar on `Tools` , you will find this
+  tool called TexturePrepare.
+  > You can find the script in: ```CustomTools->Slicer->Editor->TexturePrepare.cs```
