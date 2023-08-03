@@ -1,5 +1,5 @@
 # Picswitch
-Picswitch is a puzzle mobile game !
+Picswitch is a puzzle mobile game made with Unity!
 
 **Presentation**
 - [Game Images](https://drive.google.com/drive/folders/1b1Lj_2X-SzWMK-QqQ0xCdeMqVumYIPGG?usp=share_link)
