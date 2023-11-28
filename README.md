@@ -10,7 +10,7 @@ Picswitch is a puzzle mobile game made with Unity!
 > The pre-release works only on **Android** mobile phones and **Android** tablets.
 
 # IMPORTANT NOTE
-- You might notice that i don't have to many commits on this project. That is because i had no clue about git at that time. I was starting to make games to
+- You might notice that i don't have to many commits on this project. That is because i did not know git at that time. I was starting to make games to
 get used to C# language i was learning.
 - I will explain how i made this game, the challenges i faced, and a few important scripts. I won't explain unity features like UnityAds, ScriptableObjects,
 UI System, Scene System etc.
